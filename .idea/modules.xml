@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curso_programacao/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao/curso_programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo_e_inicializacao/escopo_e_inicializacao.iml" filepath="$PROJECT_DIR$/escopo_e_inicializacao/escopo_e_inicializacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/estrutura_condicional.iml" filepath="$PROJECT_DIR$/estrutura_condicional/estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_de_repeticao_dowhile/estrutura_de_repeticao_dowhile.iml" filepath="$PROJECT_DIR$/estrutura_de_repeticao_dowhile/estrutura_de_repeticao_dowhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_de_repeticao_for/estrutura_de_repeticao_for.iml" filepath="$PROJECT_DIR$/estrutura_de_repeticao_for/estrutura_de_repeticao_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_de_repeticao_while/estrutura_de_repeticao_while.iml" filepath="$PROJECT_DIR$/estrutura_de_repeticao_while/estrutura_de_repeticao_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_sequencial/estrutura_sequencial.iml" filepath="$PROJECT_DIR$/estrutura_sequencial/estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_de_repeticao_for/exercicios_estrutura_de_repeticao_for.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_de_repeticao_for/exercicios_estrutura_de_repeticao_for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_while/exercicios_estrutura_while.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_while/exercicios_estrutura_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoes_para_strings/funcoes_para_strings.iml" filepath="$PROJECT_DIR$/funcoes_para_strings/funcoes_para_strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operador_ternario/operador_ternario.iml" filepath="$PROJECT_DIR$/operador_ternario/operador_ternario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operadores_atribuicao_cumulativa/operadores_atribuicao_cumulativa.iml" filepath="$PROJECT_DIR$/operadores_atribuicao_cumulativa/operadores_atribuicao_cumulativa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_case/switch_case.iml" filepath="$PROJECT_DIR$/switch_case/switch_case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ws-udemy-java.iml" filepath="$PROJECT_DIR$/.idea/ws-udemy-java.iml" />
+    </modules>
+  </component>
+</project>
