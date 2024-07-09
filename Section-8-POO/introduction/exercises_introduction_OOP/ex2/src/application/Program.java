@@ -16,9 +16,9 @@ public class Program {
         char escolha = 'y';
         while (escolha == 'y' || escolha == 'Y') {
 
-            System.out.print("Employee name: ");
+            System.out.print("Name: ");
             emp.name = sc.nextLine();
-            System.out.print("Employee salary: ");
+            System.out.print("Gross salary: ");
             emp.grossSalary = sc.nextDouble();
             System.out.print("Tax: ");
             emp.tax = sc.nextDouble();
