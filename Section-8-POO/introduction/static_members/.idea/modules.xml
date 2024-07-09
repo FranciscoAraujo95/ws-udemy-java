@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/first_version/first_version.iml" filepath="$PROJECT_DIR$/first_version/first_version.iml" />
       <module fileurl="file://$PROJECT_DIR$/second_version/second_version.iml" filepath="$PROJECT_DIR$/second_version/second_version.iml" />
       <module fileurl="file://$PROJECT_DIR$/static_members.iml" filepath="$PROJECT_DIR$/static_members.iml" />
