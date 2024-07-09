@@ -4,7 +4,10 @@ import entities.Rectangle;
 
 import java.util.Locale;
 import java.util.Scanner;
-
+/*
+Crie uma classe chamada “Retângulo” que possua atributos para armazenar a largura e a altura.
+Implemente métodos para calcular a área e o perímetro do retângulo.
+ */
 public class Program {
     public static void main(String[] args) {
 
