@@ -25,19 +25,14 @@ public class Program {
 
             System.out.println();
             System.out.println(emp);
-
-            System.out.println();
-            System.out.println("Employee: " + emp.name + ", R$ " + emp.netSalary());
-
             System.out.println();
             System.out.print("Which percentage to increase salary? ");
 
-            double percent = sc.nextDouble();
-            double number = emp.increaseSalary(percent);
-            double updatedSalary = emp.netSalary() + (emp.grossSalary * number);
+            double percentage = sc.nextDouble();
+            emp.increaseSalary(percentage);
 
             System.out.println();
-            System.out.println("Updated data: " + emp.name + ", R$ " + String.format("%.2f", updatedSalary));
+            System.out.println("Updated data: " + emp);
 
             System.out.println("\nWould you like to continue? (Y/N)");
             escolha = sc.next().charAt(0);

@@ -12,17 +12,12 @@ public class Employee {
         return grossSalary - tax;
     }
 
-   public double increaseSalary (double percentage) {
-        return percentage / 100;
+   public void increaseSalary (double percentage) {
+        grossSalary += grossSalary * percentage / 100;
    }
 
     public String toString() {
-        return "Name: "
-                + name
-                + "\nGross Salary: "
-                + "R$ " + String.format("%.2f", grossSalary)
-                + "\nTax: "
-                + "R$ " + String.format("%.2f", tax);
+        return name + ", $ " + String.format("%.2f", netSalary());
     }
 
 }
