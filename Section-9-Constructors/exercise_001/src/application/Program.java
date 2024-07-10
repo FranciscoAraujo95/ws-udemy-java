@@ -19,8 +19,16 @@ public class Program {
         System.out.print("Enter account holder: ");
         String holder = sc.nextLine();
 
+
         System.out.print("Is there an initial deposit? (y/n) ");
         String response = sc.next();
+
+        while (!response.equals("y") && !response.equals("n")) {
+            System.out.println("[ERROR] Enter only 'y' or 'n'.");
+            System.out.print("\nIs there an initial deposit? (y/n) ");
+            response = sc.next();
+        }
+
         if (response.equals("y")) {
             System.out.print("Enter initial amount value: ");
             double amount = sc.nextDouble();
