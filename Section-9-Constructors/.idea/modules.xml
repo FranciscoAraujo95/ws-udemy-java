@@ -6,7 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/access_modifiers.iml" filepath="$PROJECT_DIR$/access_modifiers/access_modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/constructors_001/constructors_001.iml" filepath="$PROJECT_DIR$/constructors_001/constructors_001.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercise_001/exercise_001.iml" filepath="$PROJECT_DIR$/exercise_001/exercise_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_001/exercise_001_my_version.iml" filepath="$PROJECT_DIR$/exercise_001/exercise_001_my_version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_001_teacher_version/exercise_001_teacher_version.iml" filepath="$PROJECT_DIR$/exercise_001_teacher_version/exercise_001_teacher_version.iml" />
       <module fileurl="file://$PROJECT_DIR$/the_word_this/the_word_this.iml" filepath="$PROJECT_DIR$/the_word_this/the_word_this.iml" />
     </modules>
   </component>
