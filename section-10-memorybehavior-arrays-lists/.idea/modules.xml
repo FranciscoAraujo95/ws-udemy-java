@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tests/Tests.iml" filepath="$PROJECT_DIR$/Tests/Tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tests_002/Tests_002.iml" filepath="$PROJECT_DIR$/Tests_002/Tests_002.iml" />
       <module fileurl="file://$PROJECT_DIR$/primitive_type_and_inicialization/primitive_type_and_inicialization.iml" filepath="$PROJECT_DIR$/primitive_type_and_inicialization/primitive_type_and_inicialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/section-10-memorybehavior-arrays-lists.iml" filepath="$PROJECT_DIR$/.idea/section-10-memorybehavior-arrays-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/vectors_001/vectors_001.iml" filepath="$PROJECT_DIR$/vectors_001/vectors_001.iml" />
