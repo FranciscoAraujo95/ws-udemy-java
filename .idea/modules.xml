@@ -13,12 +13,12 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_while/exercicios_estrutura_while.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_while/exercicios_estrutura_while.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes_para_strings/funcoes_para_strings.iml" filepath="$PROJECT_DIR$/funcoes_para_strings/funcoes_para_strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes_sintaxe/funcoes_sintaxe.iml" filepath="$PROJECT_DIR$/funcoes_sintaxe/funcoes_sintaxe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section-8-POO/introduction/introduction_problem_with_OOP/introduction_problem_with_OOP.iml" filepath="$PROJECT_DIR$/Section-8-POO/introduction/introduction_problem_with_OOP/introduction_problem_with_OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section-8-POO/introduction/introduction_problem_without_OOP/introduction_problem_without_OOP.iml" filepath="$PROJECT_DIR$/Section-8-POO/introduction/introduction_problem_without_OOP/introduction_problem_without_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section-8-POO/introduction/introduction_problem_with_OOP/introduction_problem_with_OOP.iml" filepath="$PROJECT_DIR$/section-8-POO/introduction/introduction_problem_with_OOP/introduction_problem_with_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section-8-POO/introduction/introduction_problem_without_OOP/introduction_problem_without_OOP.iml" filepath="$PROJECT_DIR$/section-8-POO/introduction/introduction_problem_without_OOP/introduction_problem_without_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/operador_ternario/operador_ternario.iml" filepath="$PROJECT_DIR$/operador_ternario/operador_ternario.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores_atribuicao_cumulativa/operadores_atribuicao_cumulativa.iml" filepath="$PROJECT_DIR$/operadores_atribuicao_cumulativa/operadores_atribuicao_cumulativa.iml" />
       <module fileurl="file://$PROJECT_DIR$/switch_case/switch_case.iml" filepath="$PROJECT_DIR$/switch_case/switch_case.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Section-8-POO/introduction/tests_on_my_own/tests_on_my_own.iml" filepath="$PROJECT_DIR$/Section-8-POO/introduction/tests_on_my_own/tests_on_my_own.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section-8-POO/introduction/tests_on_my_own/tests_on_my_own.iml" filepath="$PROJECT_DIR$/section-8-POO/introduction/tests_on_my_own/tests_on_my_own.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ws-udemy-java.iml" filepath="$PROJECT_DIR$/.idea/ws-udemy-java.iml" />
     </modules>
   </component>
