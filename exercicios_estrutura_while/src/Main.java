@@ -2,16 +2,17 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
 
-//        System.out.printf("Inform your password: ");
-//        int rightPassword = sc.nextInt();
-//        while (rightPassword != 2002) {
-//            System.out.printf("Incorrect password.%nTry again: ");
-//            rightPassword = sc.nextInt();
-//        }
-//
-//        System.out.printf("Access granted. Welcome.");
+        System.out.print("Inform your password: ");
+        int rightPassword = sc.nextInt();
+        while (rightPassword != 2002) {
+            System.out.printf("Incorrect password.%nTry again: ");
+            rightPassword = sc.nextInt();
+        }
+
+        System.out.printf("Access granted. Welcome.");
 
 //        ---------------------------------------------------
 
@@ -53,30 +54,30 @@ public class Main {
         exemplo.
          */
 
-        int alcool = 0;
-        int gasolina = 0;
-        int diesel = 0;
-
-        System.out.println("Informe o tipo de combustivel. (1 - Alcool / 2 - Gasolina / 3 - Diesel // 4 - Sair)");
-        int tipo = sc.nextInt();
-
-        while (tipo != 4) {
-            if (tipo == 1) {
-                alcool += 1;
-            } else if (tipo == 2) {
-                gasolina += 1;
-            } else if (tipo == 3) {
-                diesel += 1;
-            }
-
-            System.out.println("Informe o tipo de combustivel. (1 - Alcool / 2 - Gasolina / 3 - Diesel // 4 - Sair)");
-            tipo = sc.nextInt();
-        }
-
-        System.out.println("MUITO OBRIGADO");
-        System.out.println("Alcool: " + alcool);
-        System.out.println("Gasolina: " + gasolina);
-        System.out.println("Diesel: " + diesel);
+//        int alcool = 0;
+//        int gasolina = 0;
+//        int diesel = 0;
+//
+//        System.out.println("Informe o tipo de combustivel. (1 - Alcool / 2 - Gasolina / 3 - Diesel // 4 - Sair)");
+//        int tipo = sc.nextInt();
+//
+//        while (tipo != 4) {
+//            if (tipo == 1) {
+//                alcool += 1;
+//            } else if (tipo == 2) {
+//                gasolina += 1;
+//            } else if (tipo == 3) {
+//                diesel += 1;
+//            }
+//
+//            System.out.println("Informe o tipo de combustivel. (1 - Alcool / 2 - Gasolina / 3 - Diesel // 4 - Sair)");
+//            tipo = sc.nextInt();
+//        }
+//
+//        System.out.println("MUITO OBRIGADO");
+//        System.out.println("Alcool: " + alcool);
+//        System.out.println("Gasolina: " + gasolina);
+//        System.out.println("Diesel: " + diesel);
 
         sc.close();
 
