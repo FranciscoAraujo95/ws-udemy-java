@@ -15,11 +15,9 @@ public class Program {
         int n = sc.nextInt();
 
         Person[] people = new Person[n];
-        Person[] names = new Person[n];
 
         double sumHeight = 0;
         double peopleUnderSixteen = 0;
-        StringBuilder peopleName = new StringBuilder();
         for (int i = 0; i < people.length; i++) {
 
             System.out.printf("Data of person number:  %d\n", i + 1);
@@ -35,23 +33,24 @@ public class Program {
             people[i] = new Person(name, age, height);
             sumHeight += people[i].getHeight();
 
-            if (people[i].getAge() < 16) {
+        }
+
+        System.out.print("Names of the people under sixteen: \n");
+        for (Person person : people) {
+            if (person.getAge() < 16) {
+                System.out.printf("%s ", person);
                 peopleUnderSixteen++;
-                peopleName.append(people[i].getName()).append("\n");
-
             }
-
         }
 
         double avgHeight = sumHeight / people.length;
         double percentUnderSixteen = peopleUnderSixteen / people.length * 100;
 
+        System.out.println();
         System.out.printf("Average height: %.2f", avgHeight);
         System.out.printf("\nPeople under sixteen years: %.1f, or %.2f%%", peopleUnderSixteen, percentUnderSixteen);
         System.out.println();
-        System.out.print(peopleName);
 
-        System.out.println();
         sc.close();
     }
 }
