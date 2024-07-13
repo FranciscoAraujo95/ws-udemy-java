@@ -40,5 +40,6 @@ public class Program {
         System.out.printf("\nNumber of approved students: %d", approvedStudents);
 
         sc.close();
+
     }
 }
