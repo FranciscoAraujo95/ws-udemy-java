@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercise_rental/exercise_rental.iml" filepath="$PROJECT_DIR$/exercise_rental/exercise_rental.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises.iml" filepath="$PROJECT_DIR$/exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/for_each/for_each.iml" filepath="$PROJECT_DIR$/for_each/for_each.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists_001/lists_001.iml" filepath="$PROJECT_DIR$/lists_001/lists_001.iml" />
     </modules>
   </component>
 </project>
