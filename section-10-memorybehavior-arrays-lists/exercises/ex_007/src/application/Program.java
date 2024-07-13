@@ -28,11 +28,11 @@ public class Program {
         }
 
         if (quantityEven == 0) {
-            System.out.print("No even numbers");
+            System.out.print("\nNo even numbers");
         } else {
             double averageEven = sumElements / quantityEven;
 
-            System.out.printf("Average of even numbers = %.1f", averageEven);
+            System.out.printf("\nAverage of even numbers = %.1f", averageEven);
         }
 
         sc.close();
