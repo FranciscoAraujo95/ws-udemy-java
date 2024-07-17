@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ex_001/ex_001.iml" filepath="$PROJECT_DIR$/ex_001/ex_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise_001/exercise_001.iml" filepath="$PROJECT_DIR$/exercise_001/exercise_001.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-13-enumerators_compositions.iml" filepath="$PROJECT_DIR$/section-13-enumerators_compositions.iml" />
     </modules>
   </component>
