@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/finally_block_001/finally_block_001.iml" filepath="$PROJECT_DIR$/finally_block_001/finally_block_001.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-15-exceptions-treatments.iml" filepath="$PROJECT_DIR$/section-15-exceptions-treatments.iml" />
       <module fileurl="file://$PROJECT_DIR$/try_catch_001/try_catch_001.iml" filepath="$PROJECT_DIR$/try_catch_001/try_catch_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try_catch_002/try_catch_002.iml" filepath="$PROJECT_DIR$/try_catch_002/try_catch_002.iml" />
     </modules>
   </component>
 </project>
