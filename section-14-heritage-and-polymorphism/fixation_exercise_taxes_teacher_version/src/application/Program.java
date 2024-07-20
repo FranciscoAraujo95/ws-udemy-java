@@ -61,8 +61,7 @@ public class Program {
         }
 
         System.out.println();
-        System.out.println("TOTAL TAXES: $ " + sum);
-
+        System.out.printf("TOTAL TAXES: $ %.2f", sum);
 
         sc.close();
 
